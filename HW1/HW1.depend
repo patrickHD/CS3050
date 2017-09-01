@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1473312010 source:d:\content\code\3050\hw1\input_error.c
+	"input_error.h"
+
+1472610400 d:\content\code\3050\hw1\input_error.h
+
+1473400587 source:d:\content\code\3050\hw1\frontend.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input_error.h"
+
